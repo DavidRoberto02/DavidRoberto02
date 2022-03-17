@@ -5,6 +5,8 @@
 
 Soy desarrollador de aplicaciones moviles desde hace 1 año.
 
+![Image text](https://github.com/DavidRoberto02/Imagen/blob/main/imagen_2022-03-17_002354.png)
+
 ## Acerca de mi  :hugs:	
 
 En 2020 comencé mi periodo de aprendizaje para convertirme en desarrollador, el reflejo de mi sueño es desarrollarme profesionalmente dentro de la industria de desarrollo móvil. Desde entonces he tenido la oportunidad de desarrollar proyectos para pymes, colaborando con dichas pymes para resolver sus necesidades desde una aplicación.
