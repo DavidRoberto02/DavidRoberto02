@@ -27,6 +27,8 @@ En 2021 decido desarrollar mis primeros proyectos como FreeLancer para las prime
 :3rd_place_medal:
 ![MySQL](https://img.shields.io/badge/MySQL-8ecae6?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)
 
+## Mis estadisticas segun GitHub:
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRoberto02&layout=compact&langs_count=10&hide=gdscript)](https://github.com/DavidRoberto02/github-readme-stats)
