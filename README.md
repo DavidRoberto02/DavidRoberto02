@@ -40,6 +40,12 @@ En 2021 decido desarrollar mis primeros proyectos como FreeLancer para las prime
 
 ## Encuentrame en:
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b6?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-acosta-saucedo-7bbb0a227/)
-[![Gmail](https://img.shields.io/badge/Gmail-d00000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/#inbox)
+
+<a href="mailto:David.Saucedo0211@gmail.com">
+[![Gmail](https://img.shields.io/badge/Gmail-d00000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)
+</a>
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-2b9348?style=for-the-badge&logo=WhatsApp&logoColor=white&labelColor=101010)](https://wa.me/528110769773)
+
 [![indeed](https://img.shields.io/badge/indeed-0077b6?style=for-the-badge&logo=indeed&logoColor=white&labelColor=101010)](https://my.indeed.com/p/davids-2x9r1n6)
+
